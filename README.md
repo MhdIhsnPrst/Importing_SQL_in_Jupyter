@@ -1,5 +1,5 @@
 # Importing SQL in Jupyter
-Hi, I am Muhammad Ihsan Prasetio. In this repository, I am using Chinook database provided in sqliteturtorial and showing how operate SQL in Jupyter Notebook
+Hi, I am Muhammad Ihsan Prasetio. In this repository, I am using Chinook database provided in sqliteturtorial and showing how operate SQL in Jupyter Notebook. In this repository I am giving some examples how to retrieve data from one table, several tables, and subquery.
 
 Here is Entity Relationship Diagram of Chinoook database.
 
